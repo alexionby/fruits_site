@@ -1,0 +1,135 @@
+/* font-family: "CenturyGothicRegular"; */
+@font-face {
+    font-family: "CenturyGothicRegular";
+    src: url("../fonts/CenturyGothicRegular/CenturyGothicRegular.eot");
+    src: url("../fonts/CenturyGothicRegular/CenturyGothicRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/CenturyGothicRegular/CenturyGothicRegular.woff") format("woff"),
+    url("../fonts/CenturyGothicRegular/CenturyGothicRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+.mynav {
+  background-color: white;
+  height: : 200px;
+}
+
+.mynav a {
+  padding-left: 20%;
+  margin-top: -2%;
+}
+
+.navbar-header div {
+  width: 100%;
+}
+
+.ending {
+  padding-bottom: 50px;
+}
+
+.ending p {
+  color: #95a53b !important;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.back-img {
+  background-image: url("../img/pic.png");
+  background-color: white;
+  margin-bottom: 0;`enter code here`
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.small-pad {
+  padding-bottom: 30px;
+}
+
+.orange-text {
+  font-weight: bold;
+  font-family: "CenturyGothicRegular";
+  color: #d26549 !important;
+}
+
+.green-text {
+  font-weight: bold;
+  font-family: "CenturyGothicRegular";
+  color: #95a53b !important;
+}
+
+#green {
+  color: #95a53b;
+}
+
+.palatino {
+  color: #95a53b !important;
+  font-family: palatino;
+  font-style: italic;
+  font-space: 2px;
+}
+
+h4 {
+  color: #95a53b !important;
+}
+
+p {
+  font-family: tahoma;
+}
+
+.why-us {
+  position: relative;
+  z-index: 999;
+  margin-bottom: 60px;
+}
+
+.tag {
+  position: absolute;
+  bottom: -8%;
+  z-index: 1000;
+  padding: 5px;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.why-us .out {
+  padding: 0px 6%;;
+}
+
+.why-us .in{
+  min-height: 210px;
+  background-color: green;
+  color: white;
+  padding: 10% 5%;
+  margin: 0px;
+  font-family: palatino;
+  font-style: italic;
+  font-weight: bold;
+  background-color: #95a53b;
+}
+
+.jumbotron {
+  margin-bottom: 50px;
+}
+
+.principal {
+  background-image: url("../img/fruits_and_vegetables_banner_rev_1.png");
+  background-color: white;
+  margin-bottom: 0;`enter code here`
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.btn-link {
+  color: #95a53b;
+  font-family: tahoma;
+}
+
+.btn-link:hover {
+  color: #d26549;
+}
